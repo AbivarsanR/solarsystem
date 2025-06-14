@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: sans-serif;
+    background: #000;
+    color: white;
+  }
+  
+  #container {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  #controls {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px;
+    border-radius: 8px;
+  }
+  
+  #sliders input {
+    width: 150px;
+  }
+  
+  label {
+    display: block;
+    margin: 5px 0;
+  }
+  button{
+    background-color: aqua;
+    height: 40px;
+    width: 60px;
+   
+  }
