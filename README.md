@@ -12,7 +12,7 @@
 
 ## Run Instructions
 
-1. Extract the zip file.
+1. Save the files in same directory
 2. Open `index.html` in a browser.
 
 No server required.
